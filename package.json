@@ -1,0 +1,21 @@
+{
+  "name": "cocoa-theme",
+  "displayName": "cocoa-theme",
+  "description": "a nice dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cocoa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cocoa-color-theme.json"
+      }
+    ]
+  }
+}
