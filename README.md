@@ -4,7 +4,7 @@
 
 [online](https://themes.vscode.one/theme/akirco/MC7MWHsf)
 
-![preview cocoa](./preview.jpeg)
+![preview cocoa](https://raw.githubusercontent.com/akirco/vscode-theme-cocoa/main/preview.jpeg)
 
 ## fonts Recommend
 
